@@ -10,7 +10,7 @@ import com.graphql.learn.repositories.BookRepo;
 import com.graphql.learn.services.BookService;
 
 @Service
-public class BookServiceImpl implements BookService{
+public class BookServiceImpl implements BookService {
 
     private BookRepo bookRepo;
 
